@@ -5,7 +5,7 @@
 
 <!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7e8772&size=22&center=true&vCenter=true&width=500&lines=Nature+Inspired+Developer;Clean+Code+Craftsman;Building+with+Purpose" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2f4f4f&size=22&center=true&vCenter=true&width=500&lines=Nature+Inspired+Developer;Clean+Code+Craftsman;Building+with+Purpose" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Code-CBA135?style=flat&logo=code&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-2f4f4f?style=flat&logo=code&logoColor=black"/>
   <img src="https://img.shields.io/badge/Minimal%20Design-1b4332?style=flat&logo=leaflet&logoColor=white"/>
 </p>
 
