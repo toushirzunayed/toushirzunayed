@@ -1,50 +1,45 @@
-<h1 align="center">🌱 Hi, I'm Toushir</h1>
-
+<!-- Premium Green Header -->
 <p align="center">
-  🌿 Growing with Code | 🌍 Nature Lover | 💻 Future Developer
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c7744&height=120&section=header&text=TOUSHIR%20ZUNAYED&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h3 align="center">Minimal • Nature • Code</h3>
+
+---
+
+## 🧠 About
+- 🌿 Nature-inspired mindset  
+- 💻 Learning programming with consistency  
+- ⚡ Focused on clean & meaningful work  
+
+---
+
+## ⚙️ Stack
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3ECF8E&center=true&vCenter=true&lines=Welcome+to+my+green+world+🌿;Coding+and+Growing+Together+🌱;Learning+Everyday+🌍" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github&theme=dark" />
 </p>
 
 ---
 
-## 🌿 About Me
-- 🌱 Passionate about plants & gardening  
-- 💻 Learning programming step by step  
-- 🌍 Love nature + technology  
-- 🚀 Goal: Become a pro developer  
+## 📊 Stats
 
----
-
-## 🍃 Tech Growing Zone
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=toushirzunayed&show_icons=true&theme=transparent&title_color=2c7744&text_color=999999&icon_color=2c7744" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=toushirzunayed&theme=transparent&ring=2c7744&fire=2c7744&currStreakLabel=2c7744" />
 </p>
 
 ---
 
-## 🌳 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toushirzunayed&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=toushirzunayed&theme=tokyonight" />
-</p>
+## 🌱 Philosophy
+> Grow silently. Let your work speak.
 
 ---
 
-## 🌼 Connect With Me
-
+## 🔗 Connect
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-2E8B57?style=for-the-badge&logo=facebook"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-228B22?style=for-the-badge&logo=instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"></a>
 </p>
-
----
-
-## 🌱 Fun Fact
-> I grow plants 🌱 and skills 💻 at the same time 😄
