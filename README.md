@@ -3,8 +3,16 @@
   <img src="https://raw.githubusercontent.com/toushirzunayed/forest.gif/main/1712764511662.gif"
        width="100%"
        style="border-radius:10px;">
+</p>
+
+<!-- 🌟 Header Text -->
+<h1 align="center" style="color:white; margin-top:-120px;">
+  IT'S MY PLEASURE, SIR/MA'AM
+</h1>
+
+<!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4332&height=130&section=header&text=ɪᴛ'ꜱ%20ᴍʏ%20ᴘʟᴇᴀꜱᴜʀᴇ,%20ꜱɪʀ/ᴍᴀ'ᴀᴍ&fontSize=32&fontColor=f7e3b7&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ffcc&size=28&center=true&vCenter=true&width=600&lines=MYSELF,+TOUSHIR+ZUNAYED;I+AM+DEVELOPING+MYSELF;WHILE+CRAFTING+MY+SKILLS;NATURE+INSPIRES+ME" />
 </p>
 
 <!-- ✨ Typing Animation -->
