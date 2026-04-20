@@ -4,7 +4,7 @@
 
 <!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2f4f4f&size=22&center=true&vCenter=true&width=500&lines=Nature+Inspired+Developer;Clean+Code+Craftsman;Building+with+Purpose" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2f4f4f&size=22&center=true&vCenter=true&width=500&lines=ɴᴀᴛᴜʀᴇ+ɪɴꜱᴘɪʀᴇᴅ+ᴍᴇ;ᴄʀᴀꜰᴛɪɴɢ+ɪꜱ+ᴏɴᴇ+ᴏꜰ+ᴍʏ+ᴄᴏʀᴇ+ɪɴᴛᴇʀᴇꜱᴛꜱ;ɪ+ᴀᴍ+ᴅᴇᴠᴇʟᴏᴘɪɴɢ+ᴍʏꜱᴇʟꜰ" />
 </p>
 
 ---
