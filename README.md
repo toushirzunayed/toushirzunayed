@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=2f4f4f&size=22&center=true&vCenter=true&width=500&lines=ᴍʏꜱᴇʟꜰ,+ᴛᴏᴜꜱʜɪʀ+ᴢᴜɴᴀʏᴇᴅ;ɪ+ᴀᴍ+ᴅᴇᴠᴇʟᴏᴘɪɴɢ+ᴍʏꜱᴇʟꜰ;ᴡʜɪʟᴇ;ᴄʀᴀꜰᴛɪɴɢ+ɪꜱ+ᴏɴᴇ+ᴏꜰ+ᴍʏ+ᴄᴏʀᴇ+ɪɴᴛᴇʀᴇꜱᴛꜱ;ᴀɴᴅ;ɴᴀᴛᴜʀᴇ+ɪɴꜱᴘɪʀᴇᴅ+ᴍᴇ" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/toushirzunayed/forest.gif/main/1712764511662.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/toushirzunayed/forest.gif/main/original-0b97c1146e340cd2e9ee422f5493a82c.gif" width="100%" />
 </p>
 ---
 
