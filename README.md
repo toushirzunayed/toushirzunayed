@@ -8,9 +8,14 @@
 ---
 
 ## 🧠 About
-- 🌿 Nature-inspired mindset  
-- 💻 Learning programming with consistency  
-- ⚡ Focused on clean & meaningful work  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nature%20Inspired%20Developer-1b4332?style=for-the-badge&logo=leaflet&logoColor=white" />
+</p>
+
+<p align="center">
+🌿 Nature-inspired mindset • 💻 Coding journey • ⚡ Clean work
+</p>  
 
 ---
 
