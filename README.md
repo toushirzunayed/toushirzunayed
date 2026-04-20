@@ -1,6 +1,6 @@
 <!-- 🌑 Luxury Header (Gold + Forest Green) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4332&height=130&section=header&text=It%20 Is%20My%20 Pleasure%20 Sir/Ma'am&fontSize=32&fontColor=f7e3b7&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4332&height=130&section=header&text=It%20Is%20My%20Pleasure%20Sir/Ma'am&fontSize=32&fontColor=f7e3b7&animation=fadeIn" />
 </p>
 
 <!-- ✨ Typing Animation -->
