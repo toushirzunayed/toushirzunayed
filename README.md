@@ -1,51 +1,98 @@
-<!-- Premium Green Header -->
+<!-- 🌑 Luxury Header (Gold + Forest Green) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c7744&height=120&section=header&text=TOUSHIR%20ZUNAYED&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-
-<p align="center">
-    
-  <img src="https://img.shields.io/badge/Nature%20• Business%20• Code-1b4332?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4332&height=130&section=header&text=TOUSHIR%20ZUNAYED&fontSize=32&fontColor=CBA135&animation=fadeIn" />
 </p>
 
+<!-- ✨ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=CBA135&size=22&center=true&vCenter=true&width=500&lines=Nature+Inspired+Developer;Clean+Code+Craftsman;Building+with+Purpose" />
+</p>
+
+---
+
+<p align="center">✦ ✦ ✦</p>
+
+---
 
 ## 🧠 About
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nature%20Inspired%20Developer-1b4332?style=for-the-badge&logo=leaflet&logoColor=white" />
+  🌿 Code. Nature. Precision.  
+  <br><br>
+  Crafting clean, minimal, and meaningful digital experiences.
 </p>
 
-<p align="center">
-🌿 Nature-inspired mindset • 💻 Coding journey • ⚡ Clean work
-</p>  
+---
+
+<p align="center">✦ ✦ ✦</p>
 
 ---
 
 ## ⚙️ Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,github&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Code-CBA135?style=flat&logo=code&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Minimal%20Design-1b4332?style=flat&logo=leaflet&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">✦ ✦ ✦</p>
 
 ---
 
 ## 📊 Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=toushirzunayed&show_icons=true&theme=transparent&title_color=2c7744&text_color=999999&icon_color=2c7744" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=toushirzunayed&show_icons=true&theme=github_dark&title_color=CBA135&icon_color=CBA135&text_color=aaaaaa" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=toushirzunayed&theme=transparent&ring=2c7744&fire=2c7744&currStreakLabel=2c7744" />
+  <img height="150" src="https://streak-stats.demolab.com?user=toushirzunayed&theme=github-dark&ring=CBA135&fire=CBA135&currStreakLabel=CBA135" />
 </p>
+
+---
+
+<p align="center">✦ ✦ ✦</p>
 
 ---
 
 ## 🌱 Philosophy
-> Grow silently. Let your work speak.
+
+<p align="center">
+  <i>"Grow silently. Let your work speak."</i>
+</p>
+
+---
+
+<p align="center">✦ ✦ ✦</p>
 
 ---
 
 ## 🔗 Connect
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"></a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-CBA135?style=for-the-badge&logo=facebook&logoColor=black">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-1b4332?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=toushirzunayed&color=CBA135&style=flat" />
+</p>
+
+---
+
+<!-- 🐍 Snake Animation -->
+<p align="center">
+  <img src="https://github.com/toushirzunayed/toushirzunayed/blob/output/github-contribution-grid-snake.svg" />
 </p>
