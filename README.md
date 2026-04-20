@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c7744&height=120&section=header&text=TOUSHIR%20ZUNAYED&fontSize=30&fontColor=ffffff&animation=fadeIn" 
 align="center">
   <img src="https://img.shields.io/badge/Nature%20• Business%20• Code-1b4332?style=for-the-badge&logo=leaflet&logoColor=white" />
-/>
----
 
 ## 🧠 About
 
