@@ -1,5 +1,11 @@
+<!-- 🌲 Forest GIF Background -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4332&height=130&section=header&text=ɪᴛ'ꜱ%20ᴍʏ%20ᴘʟᴇᴀꜱᴜʀᴇ%20,ꜱɪʀ/ᴍᴀ'ᴀᴍ&fontSize=32&fontColor=f7e3b7&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/toushirzunayed/forest.gif/main/1712764511662.gif"
+       width="100%"
+       style="border-radius:10px;">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4332&height=130&section=header&text=ɪᴛ'ꜱ%20ᴍʏ%20ᴘʟᴇᴀꜱᴜʀᴇ,%20ꜱɪʀ/ᴍᴀ'ᴀᴍ&fontSize=32&fontColor=f7e3b7&animation=fadeIn" />
 </p>
 
 <!-- ✨ Typing Animation -->
