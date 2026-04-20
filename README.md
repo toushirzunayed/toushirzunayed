@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c7744&height=120&section=header&text=TOUSHIR%20ZUNAYED&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Minimal • Nature • Code</h3>
+<h3 align="center">Business • Nature • Code</h3>
 
 ---
 
