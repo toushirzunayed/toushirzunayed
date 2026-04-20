@@ -48,11 +48,11 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=toushirzunayed&show_icons=true&theme=github_dark&title_color=f7e3b7&icon_color=CBA135&text_color=aaaaaa" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=toushirzunayed&show_icons=true&theme=github_dark&title_color=f7e3b7&icon_color=f7e3b7&text_color=aaaaaa" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=toushirzunayed&theme=github-dark&ring=CBA135&fire=CBA135&currStreakLabel=CBA135" />
+  <img height="150" src="https://streak-stats.demolab.com?user=toushirzunayed&theme=github-dark&ring=f7e3b7&fire=f7e3b7&currStreakLabel=f7e3b7" />
 </p>
 
 ---
