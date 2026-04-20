@@ -48,7 +48,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=toushirzunayed&show_icons=true&theme=github_dark&title_color=CBA135&icon_color=CBA135&text_color=aaaaaa" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=toushirzunayed&show_icons=true&theme=github_dark&title_color=f7e3b7&icon_color=CBA135&text_color=aaaaaa" />
 </p>
 
 <p align="center">
