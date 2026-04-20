@@ -1,7 +1,7 @@
 <!-- 🌲 Forest GIF Background -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/toushirzunayed/forest.gif/main/1712764511662.gif"
-       width="100%"
+       width="200%"
        style="border-radius:10px;">
 </p>
 <p align="center">
