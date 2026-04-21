@@ -20,9 +20,7 @@
 ## 🧠 About
 
 <p align="center">
-  🌿 Code. Nature. Precision.  
-  <br><br>
-  Crafting clean, minimal, and meaningful digital experiences.
+ Loading.........
 </p>
 
 ---
@@ -52,9 +50,7 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=toushirzunayed&show_icons=true&theme=github_dark&title_color=f7e3b7&icon_color=f7e3b7&text_color=aaaaaa" />
-</p>
 
-<p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=toushirzunayed&theme=github-dark&ring=f7e3b7&fire=f7e3b7&currStreakLabel=f7e3b7" />
 </p>
 
@@ -79,11 +75,11 @@
 ## 🔗 Connect
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/toushirzunayed-FFFFFF?style=for-the-badge&logo=X&logoColor=black">
+  <a href="https://x.com/toushirzunayed">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-1b4332?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://mail.google.com/mail/u/2/#inbox">
+    <img src="https://img.shields.io/badge/gmail-1b4332?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -95,7 +91,3 @@
 
 ---
 
-<!-- 🐍 Snake Animation -->
-<p align="center">
-  <img src="https://github.com/toushirzunayed/toushirzunayed/blob/output/github-contribution-grid-snake.svg" />
-</p>
