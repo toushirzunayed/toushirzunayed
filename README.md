@@ -1,10 +1,9 @@
 <!-- ✨ Pic Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/toushirzunayed/forest.gif/main/Sreen.jpeg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4332&height=100&section=header&text=IT'S%20MY%20PLEASURE,%20SIR/MA'AM&fontSize=32&fontColor=f7e3b7&animation=fadeIn" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4332&height=130&section=header&text=IT'S%20MY%20PLEASURE,%20SIR/MA'AM&fontSize=32&fontColor=f7e3b7&animation=fadeIn" />
-</p>
+
 
 
 <!-- ✨ Typing Animation -->
