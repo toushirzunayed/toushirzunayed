@@ -1,7 +1,8 @@
 <!-- ✨ Pic Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/toushirzunayed/forest.gif/main/Sreen.jpeg" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4332&height=100&section=header&text=IT'S%20MY%20PLEASURE,%20SIR/MA'AM&fontSize=32&fontColor=f7e3b7&animation=fadeIn" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=ɪᴛ'ꜱ%20ᴍʏ%20ᴘʟᴇᴀꜱᴜʀᴇ,%20ꜱɪʀ/ᴍᴀ'ᴀᴍ&fontSize=32&fontColor=0f2027&animation=fadeIn">
 </p>
 
 
@@ -11,13 +12,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=2f4f4f&size=22&center=true&vCenter=true&width=500&lines=ᴍʏꜱᴇʟꜰ,+ᴛᴏᴜꜱʜɪʀ+ᴢᴜɴᴀʏᴇᴅ;ɪ'ᴍ+ᴅᴇᴠᴇʟᴏᴘɪɴɢ+ᴍʏꜱᴇʟꜰ;ᴡʜɪʟᴇ;ᴄʀᴀꜰᴛɪɴɢ+ɪꜱ+ᴏɴᴇ+ᴏꜰ+ᴍʏ+ᴄᴏʀᴇ+ɪɴᴛᴇʀᴇꜱᴛꜱ;ᴀɴᴅ;ɴᴀᴛᴜʀᴇ+ɪɴꜱᴘɪʀᴇᴅ+ᴍᴇ" />
 </p>
 
----
 
-<p align="center">✦ ✦ ✦</p>
-
----
-
-## 🧠 About
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
+</p>
+## About
 
 <p align="center">
  Loading.........
