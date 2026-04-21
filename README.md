@@ -28,20 +28,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
 </p>
 
-## ⚙️ Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Code-2f4f4f?style=flat&logo=code&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Minimal%20Design-1b4332?style=flat&logo=leaflet&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
-</p>
 
 ## 📊 Stats
 
@@ -65,26 +52,5 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
 </p>
 
-## 🔗 Connect
 
-<p align="center">
-  <a href="https://x.com/toushirzunayed">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="https://mail.google.com/mail/u/2/#inbox">
-    <img src="https://img.shields.io/badge/gmail-1b4332?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toushirzunayed&color=CBA135&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
-</p>
 
