@@ -5,7 +5,7 @@
 
 <!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2f4f4f&size=22&center=true&vCenter=true&width=500&lines=ᴍʏꜱᴇʟꜰ,+ᴛᴏᴜꜱʜɪʀ+ᴢᴜɴᴀʏᴇᴅ;ɪ+ᴀᴍ+ᴅᴇᴠᴇʟᴏᴘɪɴɢ+ᴍʏꜱᴇʟꜰ;ᴡʜɪʟᴇ;ᴄʀᴀꜰᴛɪɴɢ+ɪꜱ+ᴏɴᴇ+ᴏꜰ+ᴍʏ+ᴄᴏʀᴇ+ɪɴᴛᴇʀᴇꜱᴛꜱ;ᴀɴᴅ;ɴᴀᴛᴜʀᴇ+ɪɴꜱᴘɪʀᴇᴅ+ᴍᴇ" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2f4f4f&size=22&center=true&vCenter=true&width=500&lines=ᴍʏꜱᴇʟꜰ,+ᴛᴏᴜꜱʜɪʀ+ᴢᴜɴᴀʏᴇᴅ;ɪ'ᴍ+ᴅᴇᴠᴇʟᴏᴘɪɴɢ+ᴍʏꜱᴇʟꜰ;ᴡʜɪʟᴇ;ᴄʀᴀꜰᴛɪɴɢ+ɪꜱ+ᴏɴᴇ+ᴏꜰ+ᴍʏ+ᴄᴏʀᴇ+ɪɴᴛᴇʀᴇꜱᴛꜱ;ᴀɴᴅ;ɴᴀᴛᴜʀᴇ+ɪɴꜱᴘɪʀᴇᴅ+ᴍᴇ" />
 </p>
 <!-- ✨ Pic Animation -->
 <p align="center">
