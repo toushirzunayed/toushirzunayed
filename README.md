@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-CBA135?style=for-the-badge&logo=facebook&logoColor=black">
+    <img src="https://img.shields.io/badge/@toushirzunayed-FFFFFF?style=for-the-badge&logo=X&logoColor=black">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Instagram-1b4332?style=for-the-badge&logo=instagram&logoColor=white">
