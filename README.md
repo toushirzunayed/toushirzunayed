@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/toushirzunayed/forest.gif/main/Sreen.jpeg" width="100%" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=ɪᴛ'ꜱ%20ᴍʏ%20ᴘʟᴇᴀꜱᴜʀᴇ,%20ꜱɪʀ/ᴍᴀ'ᴀᴍ&fontSize=32&fontColor=008080&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=It's%20My%20Pleasure,%20Sir/Ma'am&fontSize=32&fontColor=008080&animation=fadeIn">
 </p>
 
 
