@@ -16,17 +16,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
 </p>
-## About
+
+## About Me
+
 
 <p align="center">
  Loading.........
 </p>
 
----
-
-<p align="center">✦ ✦ ✦</p>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
+</p>
 
 ## ⚙️ Stack
 
@@ -39,11 +39,9 @@
   <img src="https://img.shields.io/badge/Minimal%20Design-1b4332?style=flat&logo=leaflet&logoColor=white"/>
 </p>
 
----
-
-<p align="center">✦ ✦ ✦</p>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
+</p>
 
 ## 📊 Stats
 
@@ -53,23 +51,19 @@
   <img height="150" src="https://streak-stats.demolab.com?user=toushirzunayed&theme=github-dark&ring=f7e3b7&fire=f7e3b7&currStreakLabel=f7e3b7" />
 </p>
 
----
-
-<p align="center">✦ ✦ ✦</p>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
+</p>
 
 ## 🌱 Philosophy
 
 <p align="center">
-  <i>"Grow silently. Let your work speak."</i>
+  <b>"ɢʀᴏᴡ ꜱɪʟᴇɴᴛʟʏ. ʟᴇᴛ ʏᴏᴜʀ ᴡᴏʀᴋ ꜱᴘᴇᴀᴋ."</b>  
 </p>
 
----
-
-<p align="center">✦ ✦ ✦</p>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
+</p>
 
 ## 🔗 Connect
 
@@ -82,11 +76,15 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=toushirzunayed&color=CBA135&style=flat" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004d40&height=3&section=header" width="100%" />
+</p>
 
