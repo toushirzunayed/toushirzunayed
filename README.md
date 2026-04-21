@@ -1,3 +1,7 @@
+<!-- ✨ Pic Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/toushirzunayed/forest.gif/main/Sreen.jpeg" width="100%" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4332&height=130&section=header&text=IT'S%20MY%20PLEASURE,%20SIR/MA'AM&fontSize=32&fontColor=f7e3b7&animation=fadeIn" />
 </p>
@@ -7,10 +11,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2f4f4f&size=22&center=true&vCenter=true&width=500&lines=ᴍʏꜱᴇʟꜰ,+ᴛᴏᴜꜱʜɪʀ+ᴢᴜɴᴀʏᴇᴅ;ɪ'ᴍ+ᴅᴇᴠᴇʟᴏᴘɪɴɢ+ᴍʏꜱᴇʟꜰ;ᴡʜɪʟᴇ;ᴄʀᴀꜰᴛɪɴɢ+ɪꜱ+ᴏɴᴇ+ᴏꜰ+ᴍʏ+ᴄᴏʀᴇ+ɪɴᴛᴇʀᴇꜱᴛꜱ;ᴀɴᴅ;ɴᴀᴛᴜʀᴇ+ɪɴꜱᴘɪʀᴇᴅ+ᴍᴇ" />
 </p>
-<!-- ✨ Pic Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/toushirzunayed/forest.gif/main/2314846_slayer49_ello-animated-gif.gif" width="100%" />
-</p>
+
 ---
 
 <p align="center">✦ ✦ ✦</p>
